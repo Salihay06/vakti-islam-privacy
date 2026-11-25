@@ -1,25 +1,10 @@
-Gizlilik Politikası
+Vakt-i İslam Gizlilik Politikası
+Son güncelleme: 24.11.2026
 
-Vakti İslam uygulaması, kullanıcı gizliliğine büyük önem verir.
+Konum. Vakt-i İslam, namaz vakitlerini göstermek ve yakın camileri bulmak için konum bilgisi kullanabilir. Konum izni verirseniz, cihaz ayarlarınıza göre yaklaşık veya kesin konum kullanılabilir. Şehir ve ilçeyi elle de seçebilirsiniz. Namaz vakitleri için seçilen konumun koordinatları AlAdhan’a, yakın cami araması yaptığınızda arama merkezinin koordinatları Overpass’e gönderilir. Harita görüntülendiğinde OpenStreetMap’ten harita verisi alınır.
 
-Toplanan Bilgiler:
-Uygulamamız, namaz vakitlerini doğru gösterebilmek amacıyla kullanıcının yaklaşık konum bilgisini kullanabilir. Bu bilgi cihaz üzerinde işlenir ve sunucularımıza kaydedilmez.
+Reklamlar. Uygulama, başka uygulamaların tanıtımlarını göstermek için CrossIndie kullanır. Hizmet uygulama kimliği, platform, paket adı, dil ve tanıtım gösterimi ya da tıklaması gibi bilgileri işler. CrossIndie, hileyi önlemek ve gösterim sıklığını sınırlamak için IP adresinin tek yönlü özetini kullanır. CrossIndie’nin açıklamasına göre SDK reklam kimliği, cihaz kimliği veya GPS konumu toplamaz. Tanıtım olayları, kredi hesabı ve hile önleme için gerekli olduğu sürece saklanabilir. CrossIndie gizlilik politikası
 
-Reklamlar:
-Uygulamada Google AdMob reklamları kullanılmaktadır. AdMob, reklam deneyimini iyileştirmek amacıyla cihaz bilgileri ve çerezler kullanabilir. Bu veriler Google’ın gizlilik politikalarına tabidir.
+Bildirimler ve cihazdaki kayıtlar. Namaz vakti ve dini gün bildirimleri isteğe bağlıdır. Bildirim tercihlerinizi uygulama ayarlarından değiştirebilirsiniz. İbadet takibi, zikir, okuma ilerlemesi, favoriler ve uygulama tercihleri cihazda saklanır. Android’de Ayarlar → Uygulamalar → Vakt-i İslam → Depolama → Verileri temizle yoluyla cihazdaki uygulama kayıtlarını silebilirsiniz. Dış hizmetlerin işlediği veriler hakkında bizimle e-posta üzerinden iletişime geçebilirsiniz.
 
-Bildirimler:
-Uygulama, namaz vakitleri ve dini hatırlatmalar için bildirim gönderebilir. Bildirimler kullanıcı isteğine bağlıdır.
-
-Veri Paylaşımı:
-Uygulama, kullanıcıya ait kişisel verileri üçüncü kişilerle paylaşmaz.
-
-Çocukların Gizliliği:
-Uygulama 13 yaş altı çocuklara yönelik özel olarak tasarlanmamıştır.
-
-Değişiklikler:
-Bu gizlilik politikası zaman zaman güncellenebilir. Güncellemeler bu sayfa üzerinden yayınlanır.
-
-İletişim:
-Herhangi bir sorunuz için:
-E-posta: salihay.mardin47@gmail.com
+Değişiklikler ve iletişim. Politika güncellendiğinde yeni metin ve güncelleme tarihi bu sayfada yayımlanır. Sorularınız ve veri talepleriniz için salihay.mardin47@gmail.com adresine yazabilirsiniz.
